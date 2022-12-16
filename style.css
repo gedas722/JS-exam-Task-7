@@ -1,0 +1,21 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(40, 61, 61);
+}
+
+img {
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+button {
+  margin-top: 20px;
+  width: 150px;
+  margin-left: 45%;
+}
